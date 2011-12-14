@@ -19,7 +19,7 @@ Example usage:
     -----> Heroku receiving push
     -----> Fetching custom buildpack
     -----> Node.js app detected
-    -----> Vendoring node 0.6.4
+    -----> Vendoring node 0.6.5
     -----> Installing dependencies with npm 1.1.0-alpha-6
            express@2.5.2 ./node_modules/express
            ├── mime@1.2.4
