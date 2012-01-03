@@ -1,7 +1,7 @@
 Heroku buildpack: Node.js
 =========================
 
-This is a Heroku buildpack for Node.js v0.6.5 apps.
+This is a Heroku buildpack for Node.js v0.6.6 apps.
 It uses [NPM](http://npmjs.org/) and [SCons](http://www.scons.org/).
 
 Usage
@@ -19,8 +19,8 @@ Example usage:
     -----> Heroku receiving push
     -----> Fetching custom buildpack
     -----> Node.js app detected
-    -----> Vendoring node 0.6.5
-    -----> Installing dependencies with npm 1.1.0-alpha-6
+    -----> Vendoring node 0.6.6
+    -----> Installing dependencies with npm 1.1.0-beta-4
            express@2.5.2 ./node_modules/express
            ├── mime@1.2.4
            ├── mkdirp@0.0.7
