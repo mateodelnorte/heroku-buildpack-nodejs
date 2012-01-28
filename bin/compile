@@ -30,8 +30,8 @@ run_npm() {
 unset GIT_DIR
 
 # config
-NODE_VERSION="0.6.8"
-NPM_VERSION="1.1.0-2"
+NODE_VERSION="0.6.9"
+NPM_VERSION="1.1.0-3"
 SCONS_VERSION="1.2.0"
 S3_BUCKET="hakobera-heroku-node"
 
